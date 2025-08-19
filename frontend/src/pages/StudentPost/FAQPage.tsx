@@ -1,6 +1,6 @@
 import { Row, Col, Typography } from 'antd';
-import QuestionCard from '../components/QuestionCard';
-import type { Question } from '../types';
+import QuestionCard from '../../components/QuestionCard';
+import type { Question } from '../../types';
 
 const { Title } = Typography;
 

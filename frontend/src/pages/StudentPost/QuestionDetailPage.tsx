@@ -14,7 +14,7 @@ import {
   message,
 } from 'antd';
 import { UserOutlined, PaperClipOutlined, SendOutlined, ClockCircleOutlined } from '@ant-design/icons';
-import type { Question } from '../types';
+import type { Question } from '../../types';
 
 const { Title, Paragraph } = Typography;
 
